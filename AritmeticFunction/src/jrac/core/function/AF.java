@@ -20,7 +20,7 @@ public class AF {
         System.out.println("Debe ser mayor "+menus1+" que "+menus2);
         return 0;
      }       
-      return menus1 -menus2;
+      return menus1 - menus2;
     }
     
 }
